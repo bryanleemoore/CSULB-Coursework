@@ -1,5 +1,5 @@
-# CECS 326 Fall 2020
+# CECS 326 Fall ----
 
 Operating Systems  
-Lecturer: Dr. Shui Lam  
-Lab Instructor: Professor Pickrell  
+Lecturer: Dr. ---   
+Lab Instructor: Professor ---   

@@ -1,4 +1,4 @@
-# CECS 378 Fall 2020
+# CECS 378 Fall ----
  
 Introduction to Computer Security Principles  
-Lecturer: Professor Giacalone    
+Lecturer: Professor ----    

@@ -1,4 +1,4 @@
-# CECS 451 Spring 2021
+# CECS 451 Spring ----
  
 Artificial Intellignece  
-Lecturer: Dr. Ju Cheol Moon  
+Lecturer: ---- 
